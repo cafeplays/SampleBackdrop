@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 134261811
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hello.backdrop
+      Dependencies: {}
