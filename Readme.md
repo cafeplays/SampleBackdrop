@@ -1,3 +1,5 @@
+New Version of this: https://github.com/cafeplays/VrmFrontViewAssetCreation
+
 ## How to make my own backdrop for VRMFrontView?
 
 1. Download this unity project
